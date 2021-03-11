@@ -1,0 +1,12 @@
+##select from student_info student_score between [ 88 92 ]
+delete from student_info student_score between [ 88 92 ]
+select from student_info student_score between [ 88 92 ]
+select from student_info
+##select from student_info student_score between [ 95 100 ]
+##delete from student_info student_name = 刁飞柏
+##select from student_info student_name = 刁飞柏
+##delete from student_info student_sex = 男
+##delete from student_info student_sex = 女
+##select from student_info
+##select from student_info student_id = 57690915294
+##select from student_info student_name = 刁飞柏

@@ -1,0 +1,26 @@
+createtable tesdel ( name char 32 )
+##
+##
+##
+insert into tesdel ( Wu )
+insert into tesdel ( Singh )
+insert into tesdel ( Srinivasan )
+insert into tesdel ( Mozart )
+##insert into tesdel ( Lamport )
+insert into tesdel ( Gold )
+insert into tesdel ( Katz )
+insert into tesdel ( ElSaid )
+insert into tesdel ( Einstein )
+insert into tesdel ( Brandt )
+insert into tesdel ( Adams )
+insert into tesdel ( Crick )
+insert into tesdel ( Kim )
+insert into tesdel ( Califieri )
+##
+##
+##
+select from tesdel
+delete from tesdel name = Srinivasan
+delete from tesdel name between [ Singh Wu ]
+delete from tesdel name = Gold
+select from tesdel

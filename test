@@ -1,0 +1,1 @@
+createtable student_info ( student_id char 16 student_name char 16 student_class int student_sex char 4 student_score float )
